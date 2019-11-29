@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/TomAllen95/reactRedditProject.git/static/css/main.85729d71.chunk.css",
+    "main.js": "/TomAllen95/reactRedditProject.git/static/js/main.dad88469.chunk.js",
+    "main.js.map": "/TomAllen95/reactRedditProject.git/static/js/main.dad88469.chunk.js.map",
+    "runtime-main.js": "/TomAllen95/reactRedditProject.git/static/js/runtime-main.37139d75.js",
+    "runtime-main.js.map": "/TomAllen95/reactRedditProject.git/static/js/runtime-main.37139d75.js.map",
+    "static/js/2.88046f29.chunk.js": "/TomAllen95/reactRedditProject.git/static/js/2.88046f29.chunk.js",
+    "static/js/2.88046f29.chunk.js.map": "/TomAllen95/reactRedditProject.git/static/js/2.88046f29.chunk.js.map",
+    "index.html": "/TomAllen95/reactRedditProject.git/index.html",
+    "precache-manifest.a53096ef2062a18acad8b9ff790617de.js": "/TomAllen95/reactRedditProject.git/precache-manifest.a53096ef2062a18acad8b9ff790617de.js",
+    "service-worker.js": "/TomAllen95/reactRedditProject.git/service-worker.js",
+    "static/css/main.85729d71.chunk.css.map": "/TomAllen95/reactRedditProject.git/static/css/main.85729d71.chunk.css.map",
+    "static/media/Screenshot.png": "/TomAllen95/reactRedditProject.git/static/media/Screenshot.82b16a76.png",
+    "static/media/RightContent.css": "/TomAllen95/reactRedditProject.git/static/media/Screenshot3.d2b20a2f.png",
+    "static/media/Screenshot4.png": "/TomAllen95/reactRedditProject.git/static/media/Screenshot4.2517b39d.png",
+    "static/media/ah.gif": "/TomAllen95/reactRedditProject.git/static/media/ah.853546ca.gif",
+    "static/media/boris.jpg": "/TomAllen95/reactRedditProject.git/static/media/boris.49e7623e.jpg",
+    "static/media/cat.gif": "/TomAllen95/reactRedditProject.git/static/media/cat.7ea6f40a.gif",
+    "static/media/comment.png": "/TomAllen95/reactRedditProject.git/static/media/comment.916fdda4.png",
+    "static/media/ducks.jpg": "/TomAllen95/reactRedditProject.git/static/media/ducks.89d4b902.jpg",
+    "static/media/earth.gif": "/TomAllen95/reactRedditProject.git/static/media/earth.0941706a.gif",
+    "static/media/finger.gif": "/TomAllen95/reactRedditProject.git/static/media/finger.dbae20aa.gif",
+    "static/media/image.png": "/TomAllen95/reactRedditProject.git/static/media/image.2efe3cac.png",
+    "static/media/jesus.jpg": "/TomAllen95/reactRedditProject.git/static/media/jesus.0382833f.jpg",
+    "static/media/landlord.jpg": "/TomAllen95/reactRedditProject.git/static/media/landlord.64ac67fc.jpg",
+    "static/media/library.jpg": "/TomAllen95/reactRedditProject.git/static/media/library.22d5d6bc.jpg",
+    "static/media/link.png": "/TomAllen95/reactRedditProject.git/static/media/link.72f75144.png",
+    "static/media/news1.jpg": "/TomAllen95/reactRedditProject.git/static/media/news1.8a83628b.jpg",
+    "static/media/news2.jpg": "/TomAllen95/reactRedditProject.git/static/media/news2.7759e30e.jpg",
+    "static/media/news3.jpg": "/TomAllen95/reactRedditProject.git/static/media/news3.99574e7b.jpg",
+    "static/media/news4.jpg": "/TomAllen95/reactRedditProject.git/static/media/news4.98be27ea.jpg",
+    "static/media/save.png": "/TomAllen95/reactRedditProject.git/static/media/save.f8d74537.png",
+    "static/media/share.png": "/TomAllen95/reactRedditProject.git/static/media/share.080bee95.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37139d75.js",
+    "static/js/2.88046f29.chunk.js",
+    "static/css/main.85729d71.chunk.css",
+    "static/js/main.dad88469.chunk.js"
+  ]
+}
